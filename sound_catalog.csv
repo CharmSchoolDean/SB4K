@@ -1,6 +1,6 @@
 file_name,emoji_left,emoji_mid,emoji_right,display_name,rating,category,vibe_check,8ball,judgement,judgement_only,is_winner,core_words
 a-few-moments-later.mp3,🎞️,🎞️,⏳,Moments Later,G,MEMES + QUOTES,N,,,,FALSE,
-ahh-scared.mp3,😱,😱,💥,ahhhhh,G,SFX,B,,,,FALSE,
+ahh-wah-ahhhh.mp3,😱,😩,😱,AHH WAH AAHH!,G,REACTiONS,B,,,,FALSE,
 ahhh-dilemma.mp3,🫂,🤩,🧿,ahh!!,G,SFX,N,,,,FALSE,"Nelly, dilemma, kelly, ahh"
 ahhhhhhhhh.mp3,🥵,😫,😩,AAAHHHH!,PG,REACTiONS,B,,,,FALSE,
 aint-nobody-got-time-for-that.mp3,🚫,🙅🏾‍♀️,🕥,Nobody Got Time,PG,MEMES + QUOTES,B,,,,FALSE,"Black lady, news, interview, sweet brown, viral, news interview, fire, brown"
@@ -13,9 +13,9 @@ all-might-laugh-har.mp3,🤠,🐻,🤠,HAR HAR HAR,G,MEMES + QUOTES,N,,,,FALSE,
 all-the-single-ladies.mp3,👯🏽‍♀️,💃🏾,👯🏻‍♀️,Single Ladies,PG,SONGS + MUSiC,G,,,,FALSE,"Beyonce, single ladies, all the, ring on it"
 alleluya-hallelujah.mp3,🙌,⛪,🙏,Hallelujah!,G,SFX,G,,,,FALSE,"Alleluia, church choir, hallelujah"
 among-us-round-start-sus.mp3,🤨,🗿,📸,SUS!,PG,SFX,N,,,,FALSE,"Sus, among us, round, start, Among Us Round Start "
-an-embarrassment-to-him.mp3,👁️,😳,👁️,Embarrassment,PG,MEMES + QUOTES,B,,,,FALSE,
+an-embarrassment-to-him.mp3,👁️,😳,👁️,Embarrassment,PG,MEMES + QUOTES,B,,x,x,FALSE,
 and-his-name-is-bruh.mp3,🫡,😑,👌,And His Name Is …,PG,MEMES + QUOTES,N,,,,FALSE,"John cena, bruh, announcer"
-and-his-name-is-john-cena.mp3,🫡,🧢,👌,John Cena!,PG,MEMES + QUOTES,G,,,,FALSE,"John, cena, announcer"
+and-his-name-is-john-cena.mp3,💵,💵,💵,John Cena MONEYS!,PG,MEMES + QUOTES,G,,,,TRUE,"John, cena, announcer"
 and-you-expect-me-to-believe-you.mp3,🤞,🤞,🪬,U EXPECT ME?,PG,MEMES + QUOTES,B,,,,FALSE,
 anime-wow-kawaii.mp3,🌈,🌈,🥰,Wow!,G,REACTiONS,G,,x,,FALSE,"wowwww, anime, girl, Japanese, anime wow"
 another-one-dj-khaled.mp3,1️⃣,➕,🔂,Another One,G,MEMES + QUOTES,G,,,,FALSE,"Dj khaled, another 1"
@@ -26,7 +26,7 @@ are-you-serious-right-now-bro.mp3,🤦🏻‍♂️,🤦🏻‍♂️,❓,U SRS 
 are-you-sure-about-that-john-cena.mp3,😶‍🌫,🤔,🧱,R U Sure About That?,G,REACTiONS,N,,x,,FALSE,"Pop thru, u sure"
 audience-aww-deltarune.mp3,🥹,🥚,🥹,AWWW,G,REACTiONS,N,,,,FALSE,
 audience-cheer-applause-2.mp3,👏🏽,👏🏼,👏🏾,VERY LIKE!,G,REACTiONS,G,,x,,FALSE,
-audience-impressed-ooooooh.mp3,😯,😯,💀,OOOH AHHH,G,REACTiONS,G,,,,FALSE,
+audience-impressed-ooooooh.mp3,😯,😯,💀,OOOH AHHH,G,REACTiONS,G,,x,,FALSE,
 audience-surprised.mp3,😨,😮,😨,SURPRISED!,G,REACTiONS,N,,,,FALSE,
 avadakedavra.mp3,💥,🪄,🧙‍♂️,Avada Kedavra!,PG,MEMES + QUOTES,N,,,,FALSE,"Voldemort, avara cadavara"
 aw-dangit.mp3,🥱,😖,😖,Aw Dangit,PG,MEMES + QUOTES,B,,,,FALSE,
@@ -36,6 +36,7 @@ awkward-pony.mp3,🤤,🤤,🎠,AWKWARD!,G,REACTiONS,B,,,,FALSE,"spongebob, bwoo
 awww-audience-sitcom.mp3,🫶,🥹,💕,Awwwww,G,REACTiONS,N,,,,FALSE,"sitcom, romantic, cute, aww, audience, tv show"
 ayo-chill.mp3,🐶,🍭,😏,AYO CHILL,PG,REACTiONS,N,,,,FALSE,
 ayo.mp3,🧑🏻‍🎤,🧑🏻‍🎤,🙃,AYO!,PG,REACTiONS,N,,,,FALSE,
+ayy-chill-chill-gta.mp3,👺,🏈,👺,AY AY AY CHILL CHILL!,PG,REACTiONS,N,,,,FALSE,
 ayyy-yeah-jeezy.mp3,📺,😎,📺,AYYY YEA,PG,REACTiONS,G,,,,FALSE,
 bababoey.mp3,🤫,🧏🏻‍♂️,👨‍👨‍👦,Bababoey,PG,MEMES + QUOTES,N,,,,FALSE,
 babushka.mp3,🪆,👵🏻,🧣,Babushka,G,MEMES + QUOTES,N,,,,FALSE,"grandma, babushka, russian"
@@ -58,7 +59,7 @@ boxing-ring-bell.mp3,🤼,🛎,🥊,Ding Ding Ding,G,SFX,N,,,,FALSE,"wwe, boxing
 boyfriend.mp3,🌹,👩🏻‍❤️‍👨🏻,🤵‍♂️,Boyfriend!,PG,SONGS + MUSiC,N,,,,FALSE,"big time rush, boyfriend, btr, boy, friend"
 breakfast.mp3,🍳,🍽️,🥞,Breakfast!,PG,MEMES + QUOTES,N,,,,FALSE,"brekfest, online kid"
 bro-mario.mp3,😩,😩,💥,BRO,PG,MEMES + QUOTES,N,,,,FALSE,"guapmotion, guap, motion, vini jr, dominican, new chin"
-bro-what-are-you-talkin-about-man.mp3,🧐,🤷🏾‍♂️,❓,Talking’ Bout Man,PG,MEMES + QUOTES,B,,,,FALSE,"russell, westbrook, interview, nba, bro, Bro, What’re You Talking’ Bout Man?"
+fart-ayo.mp3,🧐,🤷🏾‍♂️,❓,PHART AYO!,PG,SFX,N,,,,FALSE,
 broforce-area-liberated.mp3,🍒,🍒,🍒,FREEDOM FREE SPIN!,G,SONGS + MUSiC,G,,,,TRUE,"bro force, area liberated, guitar, broforce"
 brother-eww.mp3,🤢,🤢,😩,Brother EWWW,G,REACTiONS,B,,,,FALSE,
 bruh.mp3,🙄,🤦🏾‍♂️,🤦‍♀️,bruh.,PG,SFX,N,,x,,FALSE,"bruh, bru, meme"
@@ -77,13 +78,12 @@ clown-laugh.mp3,🤡,😝,🤡,CLOWNED,G,SFX,G,,,,FALSE,
 cmon-mane.mp3,😩,😩,🙊,C'Mon MANE!,PG,REACTiONS,B,,,,FALSE,
 come-get-some.mp3,🏃🏽‍♀️,📥,🏃‍♀️,Come Get Some!,G,MEMES + QUOTES,N,,,,FALSE,"patrick, come, get, some, spongebob"
 come-on-man-biden.mp3,👨🏻‍🦳,👨🏻‍🦳,✍️,C’mon Man!!,G,REACTiONS,B,,x,,FALSE,
-come-on-man.mp3,🤦🏻‍♂️,😒,🤦🏾‍♂️,C’mon Man!,PG,REACTiONS,B,,,,FALSE,"come on, man, cmon"
+come-on-man.mp3,🤦🏻‍♂️,😒,🤦🏾‍♂️,C’mon Man!,PG,REACTiONS,B,,x,,FALSE,"come on, man, cmon"
 congratulations-you-played-yourself.mp3,🎉,🤡,⛔,Played YRSLF,PG,MEMES + QUOTES,B,,,,FALSE,"you played yourself, congratulations"
-congratulations-youre-a-failure.mp3,🎉,😔,🔴,Congrats…,PG,MEMES + QUOTES,B,,,,FALSE,"congratulations, youre, a, failure"
+congratulations-youre-a-failure.mp3,🎉,😔,🔴,Congrats…,PG,MEMES + QUOTES,B,,x,,FALSE,"congratulations, youre, a, failure"
 correct-answer-bell.mp3,👌,✅,👍,Correct!,G,SFX,G,,,,FALSE,"correct answer, ding, right"
 creeper-aww-man.mp3,👾,🧟,💥,Creeper!,PG,SONGS + MUSiC,N,,,,FALSE,
-please-sir-i-want-some-more.mp3,🥣,🥣,💢,I WANT SOME MORE,G,MEMES + QUOTES,N,,,,FALSE,
-crowd-applause-cheer-audience-clap.mp3,💵,💵,💵,BIG CLAP!,G,SFX,G,,,,TRUE,"adelle, big crowd, cheer, audience clap, clapping, applause"
+crowd-applause-cheer-audience-clap.mp3,💵,💵,💵,BIG MONEY APPLAUSE!,G,SFX,G,,,,TRUE,"adelle, big crowd, cheer, audience clap, clapping, applause"
 crowd-gasp.mp3,😬,😲,😲,!(O_O)!,G,REACTiONS,N,,,,FALSE,
 cuphead-knock-out.mp3,😵,🥐,😵,KNOCK OUT!,PG,MEMES + QUOTES,G,,,,FALSE,
 curb-your-enthusiasm.mp3,🚏,😅,🚗,Well…,PG,SONGS + MUSiC,N,,,,FALSE,"curb, your, enthusiasm, frolic, theme, larry david"
@@ -122,7 +122,6 @@ eurah-saja-boys-kpop.mp3,🍿,❤️‍🔥,🍿,Eurah!,G,SFX,G,,,,FALSE,"saja b
 eventually.mp3,🥷,🐿,👔,EVENTUALLY,PG,8-BALL ANSWERS,N,m,,,FALSE,
 evil-laugh-master-hand.mp3,😈,😈,👹,MWA HA HA,PG,SFX,B,,,,FALSE,
 ewww-kids.mp3,🥴,🤢,😖,EWWWW!,G,REACTiONS,B,,,,FALSE,"kids, eww, disgust, gross"
-ewww-shiek.mp3,😩,😩,🤢,Ewwwwww,PG,REACTiONS,B,,,,FALSE,
 excuse-me-um-no.mp3,😭,🤷🏻‍♀️,😵,XCUZZMEE,G,REACTiONS,B,,,,FALSE,
 fact-or-fiction-1.mp3,🤔,🚩,🚨,It’s FALSE!,PG,REACTiONS,B,,,,FALSE,
 fact-or-fiction-2.mp3,🚨,💢,💢,Not This Time!,PG,8-BALL ANSWERS,B,N,,,FALSE,
@@ -134,10 +133,10 @@ fail-wrong.mp3,❌,🙅🏻‍♀️,❌,Wrongo!,G,SFX,B,,,,FALSE,"buzzer, wrong
 failure-smash.mp3,😑,🧟‍♂️,😑,Failure.,PG,REACTiONS,B,,,,FALSE,
 failure.mp3,⚠️,😞,❌️,Failure!,PG,MEMES + QUOTES,B,,,,FALSE,"steven, stephen, he, fail, failure"
 fangirls-cheering.mp3,👩🏻,👱🏻‍♀️,👩🏻‍🦰,GIRLS LOVE IT!,G,REACTiONS,G,,,,FALSE,
+fart-cringe.mp3,💨,💩,💨,FART,PG,SFX,N,,,,FALSE,"fart, farting"
 fart-i-just-did-a-boom-boom.mp3,💩,💩,🔥,I JUST DID A BOOM BOOM,PG,MEMES + QUOTES,N,,,,FALSE,
 fart-in-space-ha.mp3,👾,💩,👾,FART IN SPACE!,PG,SFX,N,,,,FALSE,
 fart-mario.mp3,👨🏻‍🚒,🍄,👨🏻‍🚒,SUPER FARTIO!,PG,SONGS + MUSiC,N,,,,FALSE,
-fart-cringe.mp3,💨,💩,💨,FART,PG,SFX,N,,,,FALSE,"fart, farting"
 fbi-open-up.mp3,🕵🏻,🚨,🚪,FBI Open Up!,PG,MEMES + QUOTES,N,,,,FALSE,"FBI, open, up"
 feeling-of-shame.mp3,🤡,🫠,😭,Shame!,PG,MEMES + QUOTES,B,,,,FALSE,"joe, rogan, the, feeling, of, shame"
 ffvii-victory.mp3,🎉,✌️,🎉,Victory!,G,SONGS + MUSiC,G,,,,FALSE,"victory, fanfare, song, win, music, trophy, final fantasy"
@@ -155,8 +154,9 @@ get-that-garbage-outta-here.mp3,🗑️,🚯,🗑️,Garbage Outta Here!,PG,MEME
 get-your-mother.mp3,🤱🏻,👩🏻,🤱🏻,Get Your Mother!,PG,MEMES + QUOTES,B,,,,FALSE,
 ghostly-sound.mp3,💀,👻,👻,SPOOKS,PG,SFX,B,,,,FALSE,
 gimme-money.mp3,👋,😊,🙋🏻‍♀️,GIMME MONEY,PG,MEMES + QUOTES,N,,,,FALSE,"hola, bebe, nicky, jam"
-girl-dinner.mp3,💵,💵,💵,GIRL DINNER WINNER!,G,MEMES + QUOTES,G,,,,TRUE,
+girl-dinner.mp3,🍒,🍒,🍒,GIRL DINNER FREE SPIN!,G,MEMES + QUOTES,G,,,,TRUE,
 go-hoommee.mp3,🏡,🏠,🏚️,GO HOME!,PG,MEMES + QUOTES,B,,x,,FALSE,
+good-4-u-spirit-orb-zelda.mp3,🫠,🎰,🫠,GOOD 4 U!,G,SFX,G,,,,FALSE,
 good-day-to-you-sir-wait.mp3,🌞,☀️,🌻,GOOD DAY …?,PG,MEMES + QUOTES,N,,,,FALSE,
 good-enough.mp3,⛰️,🎯,⛰️,Good Enough,PG,REACTiONS,N,,x,x,FALSE,
 good-question.mp3,⁉️,💡,🧐,Good Question!,PG,8-BALL ANSWERS,N,M,,,FALSE,
@@ -205,7 +205,7 @@ i-aint-got-no-money.mp3,🐴,🐎,🐴,AIN’T GOT NO MONEY,PG,SONGS + MUSiC,B,,
 i-aint-lettin-that-happen.mp3,💎,💣,💎,Ain't Lettin’ That,PG,REACTiONS,N,,,,FALSE,
 i-aint-reading-all-that.mp3,📚,🙅🏽‍♂️,📖,I Ain’t Readin’,PG,MEMES + QUOTES,B,,,,FALSE,"i, aint, reading, all, that , will, smith, All That"
 i-am-so-confused.mp3,😵‍💫,😵‍💫,🏨,SO CONFUSED,PG,REACTiONS,N,,,,FALSE,
-i-assure-you-no-one-cares.mp3,🫶🏻,🥹,❤️‍🩹,I Assure You …,PG,REACTiONS,B,,x,,FALSE,
+i-assure-you-no-one-cares.mp3,🫶🏻,🥹,❤️‍🩹,I Assure You …,PG,REACTiONS,B,,,,FALSE,
 i-beg-your-pardon.mp3,😷,😷,👩🏼‍💻,I BEG YOUR PARDON,PG,REACTiONS,N,,,,FALSE,
 i-believe-i-can-fly.mp3,💫,🪽,✈️,I Can Fly,G,SONGS + MUSiC,G,,,,FALSE,"I Believe, believe, i, can, fly, r kelly"
 i-believe-i-can-oof.mp3,💫,😮‍💨,🥹,I Believe I Can …,G,SONGS + MUSiC,N,,,,FALSE,"oof, I Believe, believe, i, can, r kelly"
@@ -224,8 +224,8 @@ i-dont-remember.mp3,😨,🛍,🤕,DON’T REMEMBER,PG,8-BALL ANSWERS,N,M,,,FALS
 i-dont-think-so.mp3,⚠️,🥹,⚠️,I Don't Think So,G,8-BALL ANSWERS,B,N,,,FALSE,
 i-dont-think-soooooo.mp3,🥹,💀,🥹,Don't Think Sooo,G,REACTiONS,B,N,,,FALSE,
 i-got-this-fahhh.mp3,💪,😏,💥,I Got This …!,PG,MEMES + QUOTES,N,,,,FALSE,"i, got, this, fahh, fah, fahhh"
-i-guess-well-never-know.mp3,💌,🌻,💌,I GUESS WE’LL NEVER KNOW,PG,8-BALL ANSWERS,N,m,,,FALSE,
-i-have-no-idea-lego.mp3,🛎,🛎,🐶,NO IDEA …. AT ALL,PG,REACTiONS,N,M,,,FALSE,
+i-guess-well-never-know.mp3,💌,🌻,💌,I GUESS WE’LL NEVER KNOW,PG,8-BALL ANSWERS,N,M,,,FALSE,
+i-have-no-idea-lego.mp3,🛎,🛎,🐶,NO IDEA …. AT ALL,PG,REACTiONS,N,,,,FALSE,
 i-have-no-idea.mp3,🫠,🪷,🪷,NO IDEA,PG,MEMES + QUOTES,N,M,,,FALSE,
 i-have-several-questions.mp3,😫,❓,😫,SEVERAL QUESTIONS,PG,MEMES + QUOTES,N,,,,FALSE,
 i-have-to-scam-more-people.mp3,🏰,💀,🏰,SCAM MORE PEOPLE,PG,MEMES + QUOTES,B,,,,FALSE,
@@ -239,7 +239,7 @@ ill-pass.mp3,🛺,🎫,🛺,PASS!,G,REACTiONS,B,,x,x,FALSE,
 im-a-survivor-reba.mp3,🏝️,💪,🏆,I’m A Survivor,PG,SONGS + MUSiC,G,,,,FALSE,"im, a, survivor, reba"
 im-gonna-have-to-say-next.mp3,⏩,⏩,👉,Next!,PG,MEMES + QUOTES,B,,,,FALSE,"mtv, next, have, to, say"
 im-interested-in-this.mp3,📝,🧐,🎯,Interested,PG,MEMES + QUOTES,G,,x,,FALSE,"alucard, interested, in, this, im"
-im-really-feeling-it.mp3,🫠,🫠,💗,Feeling It,PG,MEMES + QUOTES,G,,x,,FALSE,"I’m, Really, feeling, it, shulk, xenoblade"
+im-really-feeling-it.mp3,🫠,🫠,💗,Feeling It,PG,MEMES + QUOTES,G,,x,x,FALSE,"I’m, Really, feeling, it, shulk, xenoblade"
 im-the-trashman.mp3,🚛,🚮,🚛,Trashman!,PG,MEMES + QUOTES,B,,,,FALSE,"I’m, The, trash, man"
 im-trash.mp3,🧻,😓,🧻,I’M TRASH,PG,MEMES + QUOTES,B,,,,FALSE,
 impossible-ffxiv.mp3,😎,🥞,🥞,IMPOSSIBLE!,PG,8-BALL ANSWERS,B,N,,,FALSE,
@@ -253,6 +253,7 @@ iphone-call.mp3,📱,📞,📱,INCOMING CALL,G,SONGS + MUSiC,N,,,,FALSE,
 it-is-what-it-is.mp3,🌃,🍜,🌃,It Is What It Is,PG,MEMES + QUOTES,N,,,,FALSE,
 it-was-perfect.mp3,😎,👌,🔥,It Was Perfect,PG,REACTiONS,G,,x,x,FALSE,
 its-a-very-nice.mp3,🎀,🎀,💭,Very Nice!,PG,REACTiONS,G,,x,x,FALSE,
+its-amazing-so-amazing.mp3,🔥,🐻,🔥,It's AMAZING,PG,SONGS + MUSiC,G,,x,,FALSE,
 its-been-a-long-time.mp3,🦇,🦇,💥 ,LONG TIME!,PG,MEMES + QUOTES,N,,,,FALSE,
 its-going-to-have-to-be-a-yes.mp3,🧜🏿‍♀️,🧟‍♂️,🧜🏿‍♀️,… yes,PG,8-BALL ANSWERS,G,Y,,,FALSE,
 its-me-ya-boi.mp3,💀,🌟,💀,IT'S ME YA BOI,PG,MEMES + QUOTES,N,,,,FALSE,
@@ -270,6 +271,7 @@ jigglypuff.mp3,🎤,🍮,😤,Jigglypuff,G,SONGS + MUSiC,N,,,,FALSE,"jigglypuff,
 jigsaw-laugh.mp3,😆,🧩,🧩,Jigsaw,PG,SFX,N,,,,FALSE,"jigsaw, laugh, play a game"
 joe-mama-well-played.mp3,😏,🤱🏻,🧺,Joe Mama,PG,MEMES + QUOTES,B,,,,FALSE,"joe, mama, well, played, american, dad"
 just-give-me-my-money.mp3,😷,🪅,😷,GIVE ME MY MONEY,PG,MEMES + QUOTES,N,,,,FALSE,
+key-item-get-zelda.mp3,🍒,🍒,🍒,KEY FREE SPIN GET!,G,SFX,G,,,,TRUE,
 kids-cheering-hype.mp3,📣,🤗,📣,YAY!,G,REACTiONS,G,,x,,FALSE,
 ladies-night.mp3,💖,💖,🌺,LADIES NIGHT!,PG,SONGS + MUSiC,G,,,,FALSE,
 laugh-chipmunk.mp3,🐿️,😝,🐿️,hehahuha,G,SFX,N,,,,FALSE,
@@ -284,12 +286,12 @@ liberty.mp3,🗿,🗽,🗽,Liberty Biberty,G,SONGS + MUSiC,N,,,,FALSE,
 lie-to-me.mp3,👻,🎨,👻,LIE TO ME,PG,MEMES + QUOTES,N,,,,FALSE,
 listen-yes.mp3,☄️,☄️,🍫,Listen!,PG,8-BALL ANSWERS,G,Y,,,FALSE,
 lonely.mp3,🥀,😔,❤️‍🩹,Lonely!,PG,SONGS + MUSiC,B,,,,FALSE,"lonely, akon, song"
-look-at-this-dude.mp3,🦸🏼‍♂️,🦸🏼‍♂️,😎,Look At This DUDE!,PG,MEMES + QUOTES,N,,,,FALSE,"Italian Brainrot, patta ping, tralalero, tung"
+look-at-this-dude.mp3,🦸🏼‍♂️,🦸🏼‍♂️,😎,Look At This DUDE!,PG,MEMES + QUOTES,N,,x,,FALSE,"Italian Brainrot, patta ping, tralalero, tung"
 luigi-bingo-ho-ho-ho-ho.mp3,🙈,😘,🙈,BINGO! HO HO HO,G,REACTiONS,G,,,,FALSE,
 luigi-hmm.mp3,🤔,🧐,🤔,Hmmmm,G,REACTiONS,N,,,,FALSE,
 luigi-hurry-up-already-eh.mp3,😱,🤷🏾,⁉️,HURRY UP,PG,MEMES + QUOTES,B,,,,FALSE,
 luigi-mamma-miaaa.mp3,🫠,🤌,💗,Mamma Miaaaa,G,REACTiONS,N,,,,FALSE,
-mamma-mia-luigi.mp3,💰,🤱🏻,💸,Mamma Mia,G,REACTiONS,N,,,,FALSE,
+mamma-mia-luigi.mp3,💰,🤱🏻,💸,Mamma Mia,G,REACTiONS,N,,x,,FALSE,
 mamma-mia.mp3,🧸,🧑🏻‍🎤,📘,Mamma Mia!,G,MEMES + QUOTES,N,,,,FALSE,
 man-what-a-bunch-of-jokers.mp3,🤡,🃏,🤡,Jokers!,PG,MEMES + QUOTES,N,,,,FALSE,"Man, What, A, Bunch, Of, Jokers, ryne"
 mario-hey-you-very-good-see-you-next-time.mp3,🎁,🏅,⭐,You Very Good!,G,REACTiONS,G,,x,,FALSE,
@@ -309,7 +311,7 @@ mission-failed.mp3,🫡,‼️,🫡,Mission Failed!,PG,MEMES + QUOTES,B,,,,FALSE
 mmmhmmm.mp3,✨,💁🏽‍♀️,🧑🏾,MmmHmmm,G,REACTiONS,G,,,,FALSE,"mmhmmm, family, guy, black"
 money-bts-moneyprize.mp3,💵,💵,💵,The Moneys!,PG,SONGS + MUSiC,G,,,,TRUE,"bts, money, moneys, blood, sweat, tears"
 money-money-money-moneyprize.mp3,💵,💵,💵,"Money, Money, Money",G,SONGS + MUSiC,G,,,,TRUE,"money, song"
-money-money-moneyprize.mp3,💵,💵,💵,Money Money Money,PG,SONGS + MUSiC,G,,,,TRUE,"here, comes, the, money"
+money-money-moneyprize.mp3,💵,💵,💵,BIG MONEYS,PG,SONGS + MUSiC,G,,,,TRUE,"here, comes, the, money"
 money-mr-krabs.mp3,💸,🤑,💰,Money!,PG,MEMES + QUOTES,G,,,,FALSE,
 mr-potato-head-noooo.mp3,🎆,🍀,💀,N000!,G,REACTiONS,B,,,,FALSE,
 my-minds-telling-me-no.mp3,😩,😩,😎,TELLING ME NO …,PG,8-BALL ANSWERS,N,N,,,FALSE,
@@ -389,16 +391,16 @@ oooohhhh-crowd-appalled.mp3,🚨,😧,😧,ooohhh!,PG,REACTiONS,B,,,,FALSE,"crow
 oooooh-crowd-audience.mp3,✨,🤩,✨,Ooooooh!,G,REACTiONS,G,,x,,FALSE,"crowd, romantic, ooooh, audience"
 peppa-pig-intro.mp3,🐖,🐖,🥓,Pepper Pig,G,SONGS + MUSiC,N,,,,FALSE,
 perfect-street-fighter.mp3,👌,💯,✅,Perfect!,G,MEMES + QUOTES,G,,x,,FALSE,
-phony.mp3,🌻,☔,☔,PHONY!,PG,MEMES + QUOTES,B,,,,FALSE,
+phony.mp3,🌻,☔,☔,PHONY!,PG,MEMES + QUOTES,B,,x,,FALSE,
 pika-pikaaaaaa.mp3,🟡,☹️,🔴,Pika Piii kkaa!,G,MEMES + QUOTES,N,,,,FALSE,
 pikachu-mad.mp3,😡,🤬,😡,PIKA MAD,G,SFX,B,,,,FALSE,
 pikachu.mp3,⚡,👑,⚡,PIKACHU,G,SFX,G,,,,FALSE,
-pikmin-fall.mp3,🫣,🫠,😭,AAAAAA!,G,SFX,B,,,,FALSE,
 pizza-roblox.mp3,🍴,🍕,😋,Pizza!,G,MEMES + QUOTES,G,,,,FALSE,
+please-sir-i-want-some-more.mp3,🥣,🥣,💢,I WANT SOME MORE,G,MEMES + QUOTES,N,,,,FALSE,
 pokemon.mp3,🍒,🐦‍🔥,🍒,POKEMON!,G,SONGS + MUSiC,G,,,,FALSE,
 police-siren-crash.mp3,🚨,🚔,👮🏻‍♂️,Police!,PG,SFX,N,,,,FALSE,
 price-is-right-fail.mp3,👹,😑,🤷🏼‍♂️,"Oh, I’m Sorry!",G,SONGS + MUSiC,B,,,,FALSE,
-price-is-right-winner.mp3,💵,💵,💵,WINNER!,G,SONGS + MUSiC,G,,,,TRUE,
+price-is-right-winner.mp3,💵,💵,💵,WINNER! WINNER!,G,SONGS + MUSiC,G,,,,TRUE,
 problem.mp3,🤯,🪤,🤯,Oops!,G,REACTiONS,B,,,,FALSE,
 put-that-cookie-down.mp3,🍪,⬇️,🍪,Cookie Down!,G,MEMES + QUOTES,N,,,,FALSE,
 quack-honk.mp3,🎤,🦆,🪿,Quack! Honk!,G,SFX,N,,,,FALSE,
@@ -471,7 +473,7 @@ they-ask-you.mp3,😭,💔,😔,They Ask You …,PG,MEMES + QUOTES,B,,,,FALSE,
 this-aint-bad-reyn.mp3,💬,🍲,🍲,AIN’T BAD!,PG,REACTiONS,G,,x,x,FALSE,
 this-aint-good.mp3,🧾,🙊,🧾,AIN'T GOOD!,PG,REACTiONS,B,,x,x,FALSE,
 this-is-bad-real-bad.mp3,🏭,😯,🛻,REAL BAD!,PG,REACTiONS,B,,x,x,FALSE,
-this-isnt-good.mp3,📋,🙈,📟,ISN’T GOOD,PG,REACTiONS,B,,x,,FALSE,
+this-isnt-good.mp3,📋,🙈,📟,ISN’T GOOD,PG,REACTiONS,B,,x,x,FALSE,
 thriller-laugh.mp3,👹,😈,👹,Evil Thriller,PG,SFX,N,,,,FALSE,
 thunder.mp3,⚡,🌩️,⚡,THUNDER!,G,SFX,N,,,,FALSE,
 tidus-ha-ha-ha.mp3,🤣,😀,🐵,Ha Ha Ha,G,REACTiONS,N,,,,FALSE,
@@ -490,11 +492,10 @@ uhh-no.mp3,😒,🙅🏽,💥,"Uh, no.",PG,REACTiONS,B,N,,,FALSE,
 ultra-combo.mp3,💥,💥,⚡️,ULTRA COMBO,PG,MEMES + QUOTES,G,,,,FALSE,
 undertaker-bell.mp3,🔔,🪦,🔔,R.I.P.,PG,SFX,N,,,,FALSE,
 ur-too-slow.mp3,🐢,🦥,🐌,UR 2 SLOW!,PG,MEMES + QUOTES,B,,,,FALSE,
-useless.mp3,🧔🏻,🫥,📜,USELESS!,PG,REACTiONS,B,,x,,FALSE,
+useless.mp3,🧔🏻,🫥,📜,USELESS!,PG,REACTiONS,B,,x,x,FALSE,
 uy-uahhh.mp3,🎎,👲🏻,⛩️,UY!,PG,MEMES + QUOTES,N,,,,FALSE,
-very-nice-borat.mp3,🎟,🐲,🎟,VERY NICE!!,PG,REACTiONS,G,,x,,FALSE,
+very-nice-borat.mp3,🎟,🐲,🎟,VERY NICE!!,PG,REACTiONS,G,,x,x,FALSE,
 waa-mario.mp3,😵‍💫,🚾,😵‍💫,Waaaa,G,SFX,N,,,,FALSE,
-wah-waluigi.mp3,💭,😩,🤌,Wahhhh,G,MEMES + QUOTES,N,,,,FALSE,
 wait-wait-wait.mp3,✋,😮,🤚,Wait Wait Wait,PG,MEMES + QUOTES,N,,,,FALSE,
 wait-what.mp3,🙇,✋,🙇,"Wait, what!",PG,MEMES + QUOTES,N,,,,FALSE,
 wakey-wakey-felix.mp3,🌄,😴,🐓,"Wakey, Wakey",PG,MEMES + QUOTES,N,,,,FALSE,
@@ -509,9 +510,9 @@ what-guap-motion.mp3,🎭,🙉,🎭,WHAT?!,PG,REACTiONS,N,,,,FALSE,
 what-help-me.mp3,🍲,🧙🏽‍♂️,🧙🏽‍♂️,HELP! ME!,PG,MEMES + QUOTES,N,,,,FALSE,
 what-how-is-this-possible.mp3,😱,😱,🧔🏽,HOW?!?!,PG,REACTiONS,N,,,,FALSE,
 what-is-this-for-real.mp3,👑,🎅🏿,🎟️,THIS FOR REAL?!,PG,REACTiONS,N,,,,FALSE,
-what-lil-jon.mp3,⁉️,🤷🏾‍♂️,😱,WHAT!,PG,REACTiONS,N,,,,FALSE,
 what-no-money.mp3,💸,💳,💸,NO MONEY?,PG,MEMES + QUOTES,B,,,,FALSE,
 what-oh-no.mp3,🤷🏻,😱,🤷🏻,"What! Oh, No!",PG,REACTiONS,B,,,,FALSE,
+what-okay-lil-jon-dk.mp3,⁉️,🤷🏾‍♂️,😱,WHAT!,PG,REACTiONS,N,,,,FALSE,
 what-the-dog-doin.mp3,🦮,🦮,🐾,WHAT THE DOG DOIN?,PG,MEMES + QUOTES,N,,,,FALSE,
 what-was-that.mp3,⚙️,🤷🏻,✈️,WHAT WAS THAT?,G,MEMES + QUOTES,N,,x,,FALSE,
 what-what-are-you-talking-about.mp3,💶,💶,🧑🏻‍🚀,WAT U TALKIN BOUT,G,MEMES + QUOTES,N,,,,FALSE,
@@ -536,9 +537,9 @@ wooooo-moist-critical.mp3,💫,🎉,💫,WOOOOO!!!,G,REACTiONS,G,,x,,FALSE,
 wow-incredible.mp3,🔥,🚀,🔥,WOW! Incredible!,G,REACTiONS,G,,x,,FALSE,
 wow-man.mp3,🎉,✨,✨,WoW!,G,REACTiONS,G,,x,,FALSE,
 wow-owen-wilson.mp3,🎠,👱‍♂️,🎠,WOW…,G,REACTiONS,G,,x,,FALSE,
-wow-roblox.mp3,✨,🍟,✨,Woww,G,REACTiONS,G,,x,,FALSE,
+wow-roblox.mp3,✨,🍟,✨,Woww,G,REACTiONS,G,,x,x,FALSE,
 wow-thats-crazy-bro.mp3,😲,🧔🏾‍♂️,😵‍💫,Wow That’s Crazy Bro,PG,REACTiONS,N,,,,FALSE,
-wow-this-is-amazing.mp3,🌈,🌟,🌈,Wow..!,G,REACTiONS,G,,x,,FALSE,
+wow-this-is-amazing.mp3,🌈,🌟,🌈,Wow..!,G,REACTiONS,G,,x,x,FALSE,
 wow-this-is-garbage.mp3,🌈,🗑,⛔,Wow…,PG,REACTiONS,B,,x,,FALSE, This Is Garbage
 wrong-answer-buzzer-incorrect.mp3,🚫,❌,🚫,Wrong!,PG,SFX,B,,,,FALSE,
 x-files.mp3,🛸,👽,🛸, ̄\_(ツ)_/ ̄ ,PG,SONGS + MUSiC,N,,,,FALSE,
@@ -561,7 +562,7 @@ yeah-its-alright-i-suppose.mp3,🤕,😐,⛈️,It's Alright …,G,REACTiONS,N,,
 yeah-lil-jon.mp3,👏,💯,🚀,YAYUH,PG,8-BALL ANSWERS,G,Y,,,FALSE,
 yeah-remix.mp3,💯,😁,🏏,Y! YEA!,G,REACTiONS,G,Y,,,FALSE,
 yeah-that-all-sorted-nicely.mp3,🎓,👑,👑,NICELY!,PG,MEMES + QUOTES,G,,,,FALSE,
-yeah-usher.mp3,🍒,🍒,🍒,YEAH!!,G,SONGS + MUSiC,G,,,,TRUE,
+yeah-usher.mp3,🍒,🍒,🍒,FREE SPiN YEAH!!,G,SONGS + MUSiC,G,,,,TRUE,
 yeet.mp3,🏀,🏌🏾,💥,YEET!,G,MEMES + QUOTES,N,,,,FALSE,
 yep-thats-the-daddy.mp3,🧔🏾‍♂️,👨🏻‍🍼,👔,The Daddy,PG,MEMES + QUOTES,N,,,,FALSE,"Yep, That’s "
 yepiii.mp3,🔥,🤗,🤗,YEPIII,G,REACTiONS,G,,,,FALSE,
@@ -595,7 +596,6 @@ you-deserve-better.mp3,✨,📈,🚀,You Deserve Better,PG,MEMES + QUOTES,N,,,,F
 you-died-bloodborne.mp3,💀,⚰️,💀,YOU R.I.P.,PG,SFX,B,,,,FALSE,
 you-go-girl.mp3,👧🏽,👭🏻,👧🏽,YOU GO GIRL,G,MEMES + QUOTES,G,,,,FALSE,
 you-got-a-moon.mp3,🥐,🌙,🥐,YOU GOT A MOON,G,SONGS + MUSiC,G,,,,FALSE,
-you-have-the-most-aura.mp3,👺,🏈,👺,YOU HAVE THE MOST AURA,PG,REACTiONS,G,,,,FALSE,
 you-lie.mp3,⛈️, 🏄🏽‍♂️,👨🏻‍🍳,You Lie!,PG,REACTiONS,B,,,,FALSE,
 you-lose-good-day-sir.mp3,🎲,👎,😩,You Lose!,PG,MEMES + QUOTES,B,,,,FALSE,
 you-madman.mp3,☠️,🦍,💨,You Madman!,PG,MEMES + QUOTES,B,,,,FALSE,
